@@ -18,4 +18,6 @@ yarn install => para instalar las dependecias
 
 yarn build => para generar la carpeta com archivos html,css y js
 
+
+se puede cambiar el nombre de la url en netflyapp XD
 */
